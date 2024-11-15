@@ -22,7 +22,13 @@
 
 ## Dataflow Diagram - Level 0 DFD
 
-![](sample.png)
+![](dfd.png)
+
+&nbsp;
+
+## Sequence Diagram
+
+![](seq.png)
 
 &nbsp;
 
